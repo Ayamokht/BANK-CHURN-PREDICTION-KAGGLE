@@ -45,9 +45,16 @@ Les datasets incluent les variables suivantes :
 
 ```bash
 git clone https://github.com/Ayamokht/BANK-CHURN-PREDICTION-KAGGLE.git
+```
+```bash
 cd BANK-CHURN-PREDICTION-KAGGLE
-
-
+```
+```bash
 python3 -m venv .venv_churn
+```
+```bash
 source .venv_churn/bin/activate   # Sur Windows : .venv_churn\Scripts\activate
+```
+```bash
 pip install -r requirements.txt
+```
