@@ -41,20 +41,27 @@ Les datasets incluent les variables suivantes :
 
 ## Travailler sur le Projet
 
-### **Cloner le Repository et configurer l’environnement virtuel:**
-
+1️⃣ Cloner le projet
 ```bash
 git clone https://github.com/Ayamokht/BANK-CHURN-PREDICTION-KAGGLE.git
 ```
+Ensuite se positionner où il y a le fichier cloné
+
 ```bash
 cd BANK-CHURN-PREDICTION-KAGGLE
 ```
+2️⃣ Création d'un environment virtuel
+
 ```bash
 python3 -m venv .venv_churn
 ```
+3️⃣ Activer l'environnement virtuel
+
 ```bash
 source .venv_churn/bin/activate   # Sur Windows : .venv_churn\Scripts\activate
 ```
+4️⃣ Installer les dépendances
+
 ```bash
 pip install -r requirements.txt
 ```
