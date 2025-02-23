@@ -44,8 +44,8 @@ Les datasets incluent les variables suivantes :
 ### **Cloner le Repository et configurer l’environnement virtuel:**
 
 ```bash
-git clone https://github.com/Chahla18/Bank-Churn-Prediction.git
-cd bank-churn-prediction
+git clone https://github.com/Ayamokht/BANK-CHURN-PREDICTION-KAGGLE.git
+cd BANK-CHURN-PREDICTION-KAGGLE
 
 
 python3 -m venv .venv_churn
